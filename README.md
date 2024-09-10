@@ -31,3 +31,7 @@ This will demonstrate automating manual processes like form filling, file downlo
     python file_downloader.py
     python file_organizer.py
     ```
+    
+### Screenshots:
+![image](https://github.com/user-attachments/assets/6e6eefb6-7b7e-45df-8b0f-b0a18f65152c)
+
