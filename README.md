@@ -31,7 +31,26 @@ This will demonstrate automating manual processes like form filling, file downlo
     python file_downloader.py
     python file_organizer.py
     ```
-    
+
+### Set Up the WebDriver:
+  1. Download the appropriate WebDriver (e.g., ChromeDriver) for your browser.
+  2. Place the WebDriver in your project directory or specify the path in the executable_path parameter in the code.
+ 
+  Run Each Script:
+
+  ### Run form_filler.py:
+      python form_filler.py
+      This will fill out a form and take a screenshot of the submission.
+
+  ### Run file_downloader.py:
+      python file_downloader.py
+      This will download a PDF report from the website.
+
+  ### Run file_organizer.py:
+      python file_organizer.py
+      This will rename and organize the downloaded PDF file.
+
+
 ### Screenshots:
 ![image](https://github.com/user-attachments/assets/6e6eefb6-7b7e-45df-8b0f-b0a18f65152c)
 
